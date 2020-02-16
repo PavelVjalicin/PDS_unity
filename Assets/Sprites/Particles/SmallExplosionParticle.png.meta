@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: a14da9d569691c548bf17fecf50d8dba
+timeCreated: 1467653132
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SmallExplosionParticle_0
+    21300002: SmallExplosionParticle_1
+    21300004: SmallExplosionParticle_2
+    21300006: SmallExplosionParticle_3
+    21300008: SmallExplosionParticle_4
+    21300010: SmallExplosionParticle_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SmallExplosionParticle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 9.5}
+        - {x: -6, y: 9.5}
+        - {x: -9, y: 2.5}
+        - {x: -9, y: -8.5}
+        - {x: -4, y: -10.5}
+        - {x: 5, y: -10.5}
+        - {x: 11, y: -0.5}
+        - {x: 11, y: 3.5}
+    - name: SmallExplosionParticle_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 6.5}
+        - {x: -11, y: -8.5}
+        - {x: -10, y: -12.5}
+        - {x: -8, y: -13.5}
+        - {x: 12, y: -13.5}
+        - {x: 13, y: -12.5}
+        - {x: 13, y: 7.5}
+        - {x: 10, y: 10.5}
+        - {x: 1, y: 13.5}
+        - {x: -4, y: 13.5}
+        - {x: -8, y: 9.5}
+    - name: SmallExplosionParticle_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12.5}
+        - {x: -12, y: 6.5}
+        - {x: -12, y: -13.5}
+        - {x: 5, y: -13.5}
+        - {x: 13, y: -6.5}
+        - {x: 13, y: 12.5}
+    - name: SmallExplosionParticle_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13.5}
+        - {x: -6, y: 11.5}
+        - {x: -15, y: -2.5}
+        - {x: -15, y: -7.5}
+        - {x: -10, y: -15.5}
+        - {x: -2, y: -15.5}
+        - {x: 3, y: -14.5}
+        - {x: 4, y: -11.5}
+        - {x: 4, y: 6.5}
+        - {x: -1, y: 13.5}
+      - - {x: 2, y: -6.5}
+        - {x: 4, y: -9.5}
+        - {x: 11, y: -9.5}
+        - {x: 14, y: -8.5}
+        - {x: 14, y: -3.5}
+        - {x: 12, y: 1.5}
+        - {x: 5, y: 1.5}
+        - {x: 3, y: -0.5}
+      - - {x: 13, y: 18.5}
+        - {x: 6, y: 11.5}
+        - {x: 6, y: 5.5}
+        - {x: 7, y: 2.5}
+        - {x: 11, y: 2.5}
+        - {x: 15, y: 4.5}
+        - {x: 18, y: 9.5}
+        - {x: 18, y: 18.5}
+    - name: SmallExplosionParticle_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -5.5}
+        - {x: -8, y: -6.5}
+        - {x: -8, y: -10.5}
+        - {x: -7, y: -12.5}
+        - {x: -3, y: -12.5}
+        - {x: -1, y: -9.5}
+        - {x: -1, y: -5.5}
+      - - {x: 6, y: -1.5}
+        - {x: 3, y: -2.5}
+        - {x: 3, y: -8.5}
+        - {x: 4, y: -10.5}
+        - {x: 16, y: -10.5}
+        - {x: 17, y: -7.5}
+        - {x: 17, y: -3.5}
+        - {x: 14, y: -1.5}
+      - - {x: -6, y: 16.5}
+        - {x: -17, y: 1.5}
+        - {x: -17, y: -4.5}
+        - {x: -4, y: -4.5}
+        - {x: 1, y: 1.5}
+        - {x: 1, y: 15.5}
+        - {x: -1, y: 16.5}
+      - - {x: 5, y: 1.5}
+        - {x: 7, y: -1.5}
+        - {x: 15, y: -1.5}
+        - {x: 15, y: 8.5}
+        - {x: 8, y: 8.5}
+        - {x: 5, y: 4.5}
+      - - {x: 8, y: 13.5}
+        - {x: 8, y: 10.5}
+        - {x: 10, y: 8.5}
+        - {x: 12, y: 8.5}
+        - {x: 18, y: 14.5}
+        - {x: 17, y: 17.5}
+        - {x: 12, y: 17.5}
+    - name: SmallExplosionParticle_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -5.5}
+        - {x: 11, y: -8.5}
+        - {x: 14, y: -8.5}
+        - {x: 16, y: -6.5}
+        - {x: 15, y: -3.5}
+        - {x: 12, y: -3.5}
+      - - {x: -18, y: 0.5}
+        - {x: -17, y: -2.5}
+        - {x: -11, y: -2.5}
+        - {x: -9, y: -0.5}
+        - {x: -10, y: 2.5}
+        - {x: -16, y: 2.5}
+      - - {x: -7, y: 14.5}
+        - {x: -7, y: 10.5}
+        - {x: -6, y: 7.5}
+        - {x: -3, y: 7.5}
+        - {x: 0, y: 8.5}
+        - {x: 0, y: 12.5}
+        - {x: -3, y: 16.5}
+        - {x: -5, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

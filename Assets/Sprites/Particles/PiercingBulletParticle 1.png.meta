@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 4f674638e3c61c9479d06a0755d940ce
+timeCreated: 1452974013
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PiercingBulletParticle 1_0
+    21300002: PiercingBulletParticle 1_1
+    21300004: PiercingBulletParticle 1_2
+    21300006: PiercingBulletParticle 1_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PiercingBulletParticle 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 10}
+        - {x: -10.5, y: 3}
+        - {x: -6.5, y: -4}
+        - {x: 2.5, y: -4}
+        - {x: 6.5, y: 2}
+        - {x: 6.5, y: 8}
+        - {x: 5.5, y: 10}
+    - name: PiercingBulletParticle 1_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 2}
+        - {x: -4.5, y: 1}
+        - {x: -4.5, y: -4}
+        - {x: 1.5, y: -13}
+        - {x: 5.5, y: -13}
+        - {x: 6.5, y: -11}
+        - {x: 6.5, y: -5}
+        - {x: 1.5, y: 2}
+      - - {x: -19.5, y: 9}
+        - {x: -18.5, y: 6}
+        - {x: -10.5, y: 3}
+        - {x: -6.5, y: 3}
+        - {x: -3.5, y: 4}
+        - {x: -3.5, y: 10}
+        - {x: -5.5, y: 13}
+        - {x: -13.5, y: 14}
+        - {x: -19.5, y: 14}
+      - - {x: 9.5, y: 13}
+        - {x: 2.5, y: 11}
+        - {x: 0.5, y: 10}
+        - {x: 0.5, y: 6}
+        - {x: 1.5, y: 4}
+        - {x: 7.5, y: 4}
+        - {x: 14.5, y: 6}
+        - {x: 17.5, y: 7}
+        - {x: 17.5, y: 13}
+    - name: PiercingBulletParticle 1_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -5}
+        - {x: -1.5, y: -7}
+        - {x: -0.5, y: -13}
+        - {x: 2.5, y: -16}
+        - {x: 5.5, y: -16}
+        - {x: 7.5, y: -14}
+        - {x: 6.5, y: -9}
+        - {x: 3.5, y: -5}
+      - - {x: 11.5, y: 15}
+        - {x: 8.5, y: 11}
+        - {x: 8.5, y: 6}
+        - {x: 16.5, y: 6}
+        - {x: 21.5, y: 8}
+        - {x: 21.5, y: 13}
+        - {x: 19.5, y: 15}
+      - - {x: -21.5, y: 15}
+        - {x: -21.5, y: 10}
+        - {x: -20.5, y: 7}
+        - {x: -10.5, y: 7}
+        - {x: -10.5, y: 14}
+        - {x: -11.5, y: 15}
+    - name: PiercingBulletParticle 1_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -9}
+        - {x: 0.5, y: -17}
+        - {x: 7.5, y: -17}
+        - {x: 7.5, y: -9}
+      - - {x: 16.5, y: 15}
+        - {x: 12.5, y: 13}
+        - {x: 12.5, y: 9}
+        - {x: 13.5, y: 7}
+        - {x: 17.5, y: 7}
+        - {x: 21.5, y: 9}
+        - {x: 21.5, y: 13}
+        - {x: 20.5, y: 15}
+      - - {x: -20.5, y: 16}
+        - {x: -23.5, y: 13}
+        - {x: -23.5, y: 11}
+        - {x: -21.5, y: 9}
+        - {x: -16.5, y: 9}
+        - {x: -14.5, y: 11}
+        - {x: -14.5, y: 13}
+        - {x: -17.5, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

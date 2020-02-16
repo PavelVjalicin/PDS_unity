@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: b934c6faf22e92844983efeb7a67f325
+timeCreated: 1464641167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomber_0
+    21300002: Bomber_1
+    21300004: Bomber_2
+    21300006: Bomber_3
+    21300008: Bomber_4
+    21300010: Bomber_5
+    21300012: Bomber_6
+    21300014: Bomber_7
+    21300016: Bomber_8
+    21300018: Bomber_9
+    21300020: Bomber_10
+    21300022: Bomber_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bomber_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 26}
+        - {x: -23, y: 20}
+        - {x: -23, y: 1}
+        - {x: 0, y: -25}
+        - {x: 5, y: -25}
+        - {x: 8, y: -24}
+        - {x: 23, y: -4}
+        - {x: 23, y: 21}
+        - {x: 20, y: 26}
+    - name: Bomber_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -23, y: 22}
+        - {x: -23, y: -2}
+        - {x: -1, y: -25}
+        - {x: 16, y: -25}
+        - {x: 23, y: -6}
+        - {x: 23, y: 26}
+    - name: Bomber_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -23, y: 23}
+        - {x: -23, y: 6}
+        - {x: -4, y: -24}
+        - {x: 1, y: -26}
+        - {x: 9, y: -26}
+        - {x: 23, y: 7}
+        - {x: 23, y: 22}
+        - {x: 19, y: 26}
+    - name: Bomber_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26}
+        - {x: -23, y: 21}
+        - {x: -23, y: 0}
+        - {x: 0, y: -26}
+        - {x: 9, y: -26}
+        - {x: 23, y: 2}
+        - {x: 23, y: 21}
+        - {x: 13, y: 26}
+    - name: Bomber_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 26}
+        - {x: -23, y: 23}
+        - {x: -23, y: 1}
+        - {x: -22, y: -3}
+        - {x: 1, y: -26}
+        - {x: 14, y: -26}
+        - {x: 23, y: 0}
+        - {x: 23, y: 26}
+    - name: Bomber_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 62
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 27}
+        - {x: -23, y: 19}
+        - {x: -23, y: 6}
+        - {x: 1, y: -25}
+        - {x: 7, y: -25}
+        - {x: 23, y: 3}
+        - {x: 23, y: 23}
+        - {x: 10, y: 27}
+    - name: Bomber_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 26}
+        - {x: -23, y: 24}
+        - {x: -23, y: 0}
+        - {x: -14, y: -20}
+        - {x: -2, y: -25}
+        - {x: 14, y: -25}
+        - {x: 23, y: 3}
+        - {x: 23, y: 26}
+    - name: Bomber_7
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 26}
+        - {x: -14, y: 26}
+        - {x: -23, y: 23}
+        - {x: -23, y: 3}
+        - {x: -2, y: -25}
+        - {x: 6, y: -25}
+        - {x: 15, y: -12}
+        - {x: 23, y: 5}
+        - {x: 23, y: 21}
+    - name: Bomber_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26}
+        - {x: -23, y: 23}
+        - {x: -23, y: 5}
+        - {x: 1, y: -27}
+        - {x: 6, y: -27}
+        - {x: 23, y: 4}
+        - {x: 23, y: 22}
+        - {x: 18, y: 26}
+    - name: Bomber_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 26}
+        - {x: -23, y: 25}
+        - {x: -23, y: 8}
+        - {x: -11, y: -18}
+        - {x: 1, y: -25}
+        - {x: 6, y: -25}
+        - {x: 11, y: -19}
+        - {x: 23, y: 5}
+        - {x: 23, y: 26}
+    - name: Bomber_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 26}
+        - {x: -23, y: 24}
+        - {x: -23, y: 5}
+        - {x: -12, y: -19}
+        - {x: 1, y: -25}
+        - {x: 7, y: -25}
+        - {x: 23, y: 6}
+        - {x: 23, y: 24}
+        - {x: 15, y: 26}
+    - name: Bomber_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 7}
+        - {x: -18, y: -2}
+        - {x: -16, y: -13}
+        - {x: 15, y: -13}
+        - {x: 22, y: -2}
+        - {x: 22, y: 7}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

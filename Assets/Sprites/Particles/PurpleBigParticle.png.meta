@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 412df8a2e835c164cb656f78ba3431a2
+timeCreated: 1453106890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PurpleBigParticle_0
+    21300002: PurpleBigParticle_1
+    21300004: PurpleBigParticle_2
+    21300006: PurpleBigParticle_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PurpleBigParticle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.549999, y: 10.5}
+        - {x: -9.549999, y: 9.5}
+        - {x: -9.549999, y: -4.5}
+        - {x: -7.549999, y: -14.5}
+        - {x: -2.5499992, y: -14.5}
+        - {x: 3.4500008, y: -11.5}
+        - {x: 14.450001, y: -0.5}
+        - {x: 14.450001, y: 2.5}
+        - {x: 7.450001, y: 10.5}
+    - name: PurpleBigParticle_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.550003, y: 11.5}
+        - {x: -11.550003, y: 5.5}
+        - {x: -13.550003, y: -12.5}
+        - {x: -13.550003, y: -16.5}
+        - {x: 5.449997, y: -16.5}
+        - {x: 15.449997, y: -9.5}
+        - {x: 15.449997, y: 11.5}
+    - name: PurpleBigParticle_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.550003, y: -6.5}
+        - {x: -1.550003, y: -8.5}
+        - {x: 17.449997, y: 1.5}
+        - {x: 17.449997, y: 19.5}
+        - {x: 9.449997, y: 30.5}
+        - {x: -2.550003, y: 30.5}
+        - {x: -24.550003, y: 5.5}
+        - {x: -24.550003, y: -15.5}
+        - {x: -22.550003, y: -25.5}
+        - {x: -10.550003, y: -25.5}
+        - {x: -0.55000305, y: -16.5}
+        - {x: -0.55000305, y: -14.5}
+        - {x: -2.550003, y: -12.5}
+      - - {x: 11.449997, y: 0.5}
+        - {x: -1.550003, y: -6.5}
+        - {x: -1.550003, y: -13.5}
+        - {x: 0.44999695, y: -18.5}
+        - {x: 6.449997, y: -20.5}
+        - {x: 8.449997, y: -21.5}
+        - {x: 11.449997, y: -21.5}
+        - {x: 20.449997, y: -8.5}
+        - {x: 20.449997, y: 0.5}
+    - name: PurpleBigParticle_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 67
+        height: 67
+      alignment: 9
+      pivot: {x: 0.65, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.450012, y: -10.5}
+        - {x: 9.450012, y: -15.5}
+        - {x: 9.450012, y: -27.5}
+        - {x: 13.450012, y: -31.5}
+        - {x: 17.450012, y: -31.5}
+        - {x: 19.450012, y: -30.5}
+        - {x: 21.450012, y: -21.5}
+        - {x: 21.450012, y: -14.5}
+        - {x: 16.450012, y: -10.5}
+      - - {x: -33.549988, y: -23.5}
+        - {x: -27.549988, y: -29.5}
+        - {x: -23.549988, y: -29.5}
+        - {x: -19.549988, y: -27.5}
+        - {x: -19.549988, y: -22.5}
+        - {x: -22.549988, y: -15.5}
+        - {x: -32.549988, y: -15.5}
+        - {x: -33.549988, y: -18.5}
+      - - {x: -39.549988, y: 10.5}
+        - {x: -41.549988, y: 7.5}
+        - {x: -41.549988, y: -3.5}
+        - {x: -31.549988, y: -3.5}
+        - {x: -28.549988, y: 5.5}
+        - {x: -28.549988, y: 9.5}
+        - {x: -34.549988, y: 10.5}
+      - - {x: 5.450012, y: 8.5}
+        - {x: -1.5499878, y: 8.5}
+        - {x: -1.5499878, y: 6.5}
+        - {x: -0.5499878, y: 3.5}
+        - {x: 5.450012, y: 0.5}
+        - {x: 7.450012, y: 0.5}
+        - {x: 9.450012, y: 2.5}
+        - {x: 9.450012, y: 7.5}
+      - - {x: 8.450012, y: 28.5}
+        - {x: 4.450012, y: 24.5}
+        - {x: 4.450012, y: 21.5}
+        - {x: 7.450012, y: 19.5}
+        - {x: 18.450012, y: 19.5}
+        - {x: 20.450012, y: 21.5}
+        - {x: 19.450012, y: 26.5}
+        - {x: 18.450012, y: 28.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

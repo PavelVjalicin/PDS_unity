@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: e0eb23e9713513e43b9ee47b6cc6a913
+timeCreated: 1468414298
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnergyPrison_0
+    21300002: EnergyPrison_1
+    21300004: EnergyPrison_2
+    21300006: EnergyPrison_3
+    21300008: EnergyPrison_4
+    21300010: EnergyPrison_5
+    21300012: EnergyPrison_6
+    21300014: EnergyPrison_7
+    21300016: EnergyPrison_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EnergyPrison_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+    - name: EnergyPrison_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 57
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 73.75}
+        - {x: 4.5, y: 73.75}
+        - {x: -9.5, y: 49.75}
+        - {x: -11.5, y: 25.75}
+        - {x: -11.5, y: 20.75}
+        - {x: -1.5, y: -1.25}
+        - {x: 1.5, y: -2.25}
+        - {x: 5.5, y: -2.25}
+        - {x: 8.5, y: 2.75}
+        - {x: 16.5, y: 22.75}
+        - {x: 16.5, y: 53.75}
+    - name: EnergyPrison_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 57
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 38.75}
+        - {x: 9.5, y: 38.75}
+        - {x: 16.5, y: 43.75}
+        - {x: 16.5, y: 52.75}
+        - {x: 10.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -4.5, y: 74.75}
+        - {x: -14.5, y: 42.75}
+        - {x: -14.5, y: 16.75}
+        - {x: -2.5, y: -0.25}
+        - {x: 11.5, y: -0.25}
+        - {x: 16.5, y: 35.75}
+        - {x: 16.5, y: 37.75}
+        - {x: 12.5, y: 38.75}
+    - name: EnergyPrison_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 37
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 74.75}
+        - {x: -2.5, y: 72.75}
+        - {x: -6.5, y: 69.75}
+        - {x: -6.5, y: 27.75}
+        - {x: 10.5, y: 27.75}
+        - {x: 16.5, y: 36.75}
+        - {x: 16.5, y: 60.75}
+        - {x: 7.5, y: 74.75}
+    - name: EnergyPrison_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 55
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+        - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+      - - {x: -2.5, y: 75.75}
+        - {x: -2.5, y: 74.75}
+        - {x: -9.5, y: 53.75}
+        - {x: -14.5, y: 36.75}
+        - {x: -14.5, y: 22.75}
+        - {x: -5.5, y: -2.25}
+        - {x: 6.5, y: -2.25}
+        - {x: 16.5, y: 10.75}
+        - {x: 16.5, y: 45.75}
+        - {x: 8.5, y: 75.75}
+    - name: EnergyPrison_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -18, y: 6}
+        - {x: -18, y: -7}
+        - {x: -15, y: -15}
+        - {x: -5, y: -21}
+        - {x: 8, y: -21}
+        - {x: 18, y: -16}
+        - {x: 18, y: 12}
+        - {x: 14, y: 18}
+    - name: EnergyPrison_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -21, y: 3}
+        - {x: -21, y: -15}
+        - {x: -15, y: -21}
+        - {x: 11, y: -21}
+        - {x: 20, y: -9}
+        - {x: 20, y: 15}
+        - {x: 14, y: 21}
+    - name: EnergyPrison_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -4, y: 21}
+        - {x: -20, y: 13}
+        - {x: -20, y: -18}
+        - {x: -16, y: -21}
+        - {x: 10, y: -21}
+        - {x: 14, y: -18}
+        - {x: 19, y: 0}
+        - {x: 19, y: 11}
+    - name: EnergyPrison_8
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -20, y: 8}
+        - {x: -20, y: -9}
+        - {x: -16, y: -15}
+        - {x: -8, y: -20}
+        - {x: 9, y: -20}
+        - {x: 16, y: -13}
+        - {x: 16, y: 10}
+        - {x: 12, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

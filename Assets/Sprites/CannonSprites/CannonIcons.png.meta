@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 0ce66a2aa95ad0741934fc53f4218eba
+timeCreated: 1462905657
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CannonIcons_0
+    21300002: CannonIcons_1
+    21300004: CannonIcons_2
+    21300006: CannonIcons_3
+    21300008: CannonIcons_4
+    21300010: CannonIcons_5
+    21300012: CannonIcons_6
+    21300014: CannonIcons_7
+    21300016: CannonIcons_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CannonIcons_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: -14.5}
+        - {x: -14, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 17, y: -11.5}
+        - {x: 17, y: 13.5}
+        - {x: 12, y: 17.5}
+    - name: CannonIcons_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CannonIcons_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 25.5}
+        - {x: -19.5, y: 16.5}
+        - {x: -19.5, y: -25.5}
+        - {x: 19.5, y: -25.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 5.5, y: 25.5}
+    - name: CannonIcons_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 11
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 18.5}
+        - {x: -18.5, y: 18.5}
+        - {x: -18.5, y: -16.5}
+        - {x: -16.5, y: -18.5}
+        - {x: 15.5, y: -18.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 14.5}
+    - name: CannonIcons_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CannonIcons_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 11
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CannonIcons_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 12
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: CannonIcons_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 14
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: CannonIcons_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 9
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 23.5}
+        - {x: -20.5, y: 15.5}
+        - {x: -20.5, y: -18.5}
+        - {x: -13.5, y: -23.5}
+        - {x: 12.5, y: -23.5}
+        - {x: 20.5, y: -17.5}
+        - {x: 20.5, y: 15.5}
+        - {x: 18.5, y: 23.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

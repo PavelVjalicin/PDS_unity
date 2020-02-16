@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: 955b924c5a399f64ab95792780fc2ba9
+timeCreated: 1464849733
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Carrier_1
+    21300002: Carrier_8
+    21300004: Carrier_9
+    21300006: Carrier_0
+    21300008: Carrier_2
+    21300010: Carrier_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Carrier_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 195
+        width: 72
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 62.5}
+        - {x: -36, y: 62.5}
+        - {x: -36, y: -60.5}
+        - {x: -33, y: -62.5}
+        - {x: 36, y: -62.5}
+    - name: Carrier_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 137
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: 12}
+        - {x: 45.5, y: 15}
+        - {x: -44.5, y: 15}
+        - {x: -52.5, y: 14}
+        - {x: -52.5, y: -16}
+        - {x: 40.5, y: -16}
+        - {x: 45.5, y: -6}
+        - {x: 46.5, y: 4}
+    - name: Carrier_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -12}
+        - {x: -28.5, y: -14}
+        - {x: -28.5, y: -43}
+        - {x: -22.5, y: -43}
+        - {x: -15.5, y: -30}
+        - {x: -15.5, y: -24}
+        - {x: -22.5, y: -12}
+      - - {x: 21.5, y: -19}
+        - {x: 15.5, y: -22}
+        - {x: 15.5, y: -27}
+        - {x: 22.5, y: -43}
+        - {x: 28.5, y: -43}
+        - {x: 28.5, y: -22}
+        - {x: 26.5, y: -19}
+      - - {x: 21.5, y: -12}
+        - {x: 21.5, y: -15}
+        - {x: 22.5, y: -19}
+        - {x: 25.5, y: -19}
+        - {x: 28.5, y: -16}
+        - {x: 26.5, y: -11}
+        - {x: 23.5, y: -11}
+      - - {x: -10.5, y: 3}
+        - {x: -17.5, y: 3}
+        - {x: -19.5, y: -1}
+        - {x: -19.5, y: -11}
+        - {x: -17.5, y: -12}
+        - {x: -15.5, y: -12}
+        - {x: -8.5, y: -5}
+        - {x: -8.5, y: 2}
+      - - {x: 9.5, y: 6}
+        - {x: 7.5, y: 5}
+        - {x: 7.5, y: -3}
+        - {x: 15.5, y: -12}
+        - {x: 20.5, y: -12}
+        - {x: 20.5, y: 1}
+        - {x: 14.5, y: 6}
+      - - {x: -10.5, y: 30}
+        - {x: -10.5, y: 22}
+        - {x: -9.5, y: 20}
+        - {x: 7.5, y: 20}
+        - {x: 10.5, y: 25}
+        - {x: 10.5, y: 30}
+      - - {x: -15.5, y: 42}
+        - {x: -16.5, y: 41}
+        - {x: -16.5, y: 36}
+        - {x: -12.5, y: 30}
+        - {x: 15.5, y: 30}
+        - {x: 16.5, y: 33}
+        - {x: 13.5, y: 41}
+        - {x: 4.5, y: 42}
+    - name: Carrier_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 92
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 15}
+        - {x: -31.5, y: 14}
+        - {x: -29.5, y: 11}
+        - {x: -27.5, y: 9}
+        - {x: -36.5, y: 10}
+        - {x: -55.5, y: 8}
+        - {x: -55.5, y: 1}
+        - {x: -54.5, y: -1}
+        - {x: -56.5, y: -6}
+        - {x: -57.5, y: -10}
+        - {x: -56.5, y: -13}
+        - {x: -14.5, y: -13}
+        - {x: 10.5, y: -11}
+        - {x: 10.5, y: 3}
+        - {x: 2.5, y: 15}
+      - - {x: 11.5, y: 9}
+        - {x: 11.5, y: -12}
+        - {x: 15.5, y: -13}
+        - {x: 54.5, y: -13}
+        - {x: 54.5, y: -3}
+        - {x: 48.5, y: 9}
+    - name: Carrier_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 18}
+        - {x: -40.5, y: 18}
+        - {x: -58.5, y: 8}
+        - {x: -58.5, y: -10}
+        - {x: -57.5, y: -12}
+        - {x: 45.5, y: -12}
+        - {x: 47.5, y: -11}
+        - {x: 47.5, y: -4}
+        - {x: 34.5, y: 14}
+    - name: Carrier_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 117
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 8}
+        - {x: 22.5, y: -2}
+        - {x: 30.5, y: -16}
+        - {x: 50.5, y: -20}
+        - {x: 55.5, y: -20}
+        - {x: 58.5, y: -16}
+        - {x: 58.5, y: 6}
+        - {x: 48.5, y: 8}
+      - - {x: 18.5, y: 18}
+        - {x: -48.5, y: 18}
+        - {x: -48.5, y: -4}
+        - {x: -40.5, y: -13}
+        - {x: -12.5, y: -13}
+        - {x: -10.5, y: -12}
+        - {x: 11.5, y: -2}
+        - {x: 15.5, y: 5}
+        - {x: 18.5, y: 10}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

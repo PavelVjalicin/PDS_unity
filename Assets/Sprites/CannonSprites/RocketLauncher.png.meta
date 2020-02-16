@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: e93904d1296ad164f8900d2c8cf8569d
+timeCreated: 1464959072
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RocketLauncher_0
+    21300002: RocketLauncher_1
+    21300004: RocketLauncher_2
+    21300006: RocketLauncher_3
+    21300008: RocketLauncher_4
+    21300010: RocketLauncher_5
+    21300012: RocketLauncher_6
+    21300014: RocketLauncher_7
+    21300016: RocketLauncher_8
+    21300018: RocketLauncher_9
+    21300020: RocketLauncher_10
+    21300022: RocketLauncher_11
+    21300024: RocketLauncher_12
+    21300026: RocketLauncher_13
+    21300028: RocketLauncher_14
+    21300030: RocketLauncher_15
+    21300032: RocketLauncher_16
+    21300034: RocketLauncher_17
+    21300036: RocketLauncher_18
+    21300038: RocketLauncher_19
+    21300040: RocketLauncher_20
+    21300042: RocketLauncher_21
+    21300044: RocketLauncher_22
+    21300046: RocketLauncher_23
+    21300048: RocketLauncher_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RocketLauncher_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22.720001}
+        - {x: -23, y: 9.720001}
+        - {x: -23, y: -11.279999}
+        - {x: -12, y: -22.279999}
+        - {x: 20, y: -22.279999}
+        - {x: 23, y: -13.279999}
+        - {x: 23, y: 16.720001}
+        - {x: 12, y: 22.720001}
+    - name: RocketLauncher_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 402
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22.720001}
+        - {x: -14, y: 22.720001}
+        - {x: -23, y: 12.720001}
+        - {x: -23, y: -10.279999}
+        - {x: -18, y: -22.279999}
+        - {x: 13, y: -22.279999}
+        - {x: 23, y: -16.279999}
+        - {x: 23, y: 12.720001}
+    - name: RocketLauncher_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 402
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.720001}
+        - {x: -23, y: 17.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 21, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 13.720001}
+        - {x: 20, y: 22.720001}
+    - name: RocketLauncher_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 402
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.720001}
+        - {x: -23, y: 17.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 21, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 13.720001}
+        - {x: 20, y: 22.720001}
+    - name: RocketLauncher_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 402
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.720001}
+        - {x: -23, y: 17.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 21, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 13.720001}
+        - {x: 20, y: 22.720001}
+    - name: RocketLauncher_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22.720001}
+        - {x: -23, y: 10.720001}
+        - {x: -23, y: -18.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 20, y: -22.279999}
+        - {x: 23, y: -17.279999}
+        - {x: 23, y: 7.720001}
+        - {x: 17, y: 22.720001}
+    - name: RocketLauncher_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 302
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22.720001}
+        - {x: -23, y: 11.720001}
+        - {x: -23, y: -8.279999}
+        - {x: -19, y: -19.279999}
+        - {x: -9, y: -22.279999}
+        - {x: 14, y: -22.279999}
+        - {x: 23, y: -15.279999}
+        - {x: 23, y: 11.720001}
+        - {x: 18, y: 22.720001}
+    - name: RocketLauncher_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 302
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22.720001}
+        - {x: -23, y: 16.720001}
+        - {x: -23, y: -12.279999}
+        - {x: -11, y: -22.279999}
+        - {x: 14, y: -22.279999}
+        - {x: 23, y: -14.279999}
+        - {x: 23, y: 11.720001}
+        - {x: 18, y: 22.720001}
+    - name: RocketLauncher_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 302
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 302
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 202
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 202
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 202
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 202
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 202
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 22.720001}
+        - {x: -20, y: 22.720001}
+        - {x: -23, y: 13.720001}
+        - {x: -23, y: -19.279999}
+        - {x: -15, y: -22.279999}
+        - {x: 7, y: -22.279999}
+        - {x: 15, y: -20.279999}
+        - {x: 23, y: -12.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 18, y: 21.720001}
+    - name: RocketLauncher_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25.720001}
+        - {x: -9, y: 25.720001}
+        - {x: -15, y: 24.720001}
+        - {x: -23, y: 19.720001}
+        - {x: -23, y: -12.279999}
+        - {x: -18, y: -23.279999}
+        - {x: 13, y: -23.279999}
+        - {x: 22, y: -16.279999}
+        - {x: 23, y: -13.279999}
+        - {x: 23, y: 14.720001}
+    - name: RocketLauncher_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 102
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 31.720001}
+        - {x: -23, y: 23.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 13, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 9.720001}
+        - {x: 22, y: 14.720001}
+        - {x: 2, y: 31.720001}
+    - name: RocketLauncher_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 38.72}
+        - {x: -5, y: 38.72}
+        - {x: -23, y: 8.720001}
+        - {x: -23, y: -12.279999}
+        - {x: -11, y: -22.279999}
+        - {x: 13, y: -22.279999}
+        - {x: 23, y: -11.279999}
+        - {x: 23, y: 10.720001}
+        - {x: 22, y: 11.720001}
+    - name: RocketLauncher_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -17.279999}
+        - {x: -20, y: -22.279999}
+        - {x: 23, y: -22.279999}
+        - {x: 23, y: 14.720001}
+        - {x: 18, y: 38.72}
+        - {x: 8, y: 44.72}
+        - {x: -10, y: 44.72}
+        - {x: -23, y: 29.720001}
+    - name: RocketLauncher_19
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 102
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 50.72}
+        - {x: -19, y: 42.72}
+        - {x: -23, y: 19.720001}
+        - {x: -23, y: -16.279999}
+        - {x: -16, y: -22.279999}
+        - {x: 23, y: -22.279999}
+        - {x: 23, y: 27.720001}
+        - {x: 9, y: 50.72}
+    - name: RocketLauncher_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -17.279999}
+        - {x: -20, y: -22.279999}
+        - {x: 13, y: -22.279999}
+        - {x: 23, y: -16.279999}
+        - {x: 23, y: 24.720001}
+        - {x: 13, y: 54.72}
+        - {x: 6, y: 56.72}
+        - {x: -5, y: 56.72}
+        - {x: -23, y: 29.720001}
+    - name: RocketLauncher_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 63.72}
+        - {x: -18, y: 47.72}
+        - {x: -23, y: 28.720001}
+        - {x: -23, y: -18.279999}
+        - {x: -14, y: -22.279999}
+        - {x: 19, y: -22.279999}
+        - {x: 23, y: -14.279999}
+        - {x: 23, y: 10.720001}
+        - {x: 10, y: 63.72}
+    - name: RocketLauncher_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 69.72}
+        - {x: -5, y: 69.72}
+        - {x: -11, y: 66.72}
+        - {x: -23, y: 14.720001}
+        - {x: -23, y: -15.279999}
+        - {x: -11, y: -22.279999}
+        - {x: 19, y: -22.279999}
+        - {x: 23, y: -14.279999}
+        - {x: 23, y: 33.72}
+        - {x: 8, y: 68.72}
+    - name: RocketLauncher_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.720001}
+        - {x: -23, y: 17.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 21, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 13.720001}
+        - {x: 20, y: 22.720001}
+    - name: RocketLauncher_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 52
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 22.720001}
+        - {x: -23, y: 17.720001}
+        - {x: -23, y: -22.279999}
+        - {x: 21, y: -22.279999}
+        - {x: 23, y: -19.279999}
+        - {x: 23, y: 13.720001}
+        - {x: 20, y: 22.720001}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
